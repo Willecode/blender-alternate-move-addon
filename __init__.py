@@ -14,7 +14,7 @@ bl_info = {
     "version": (1, 0, 0),
     "blender": (3, 0, 0),
     "location": "View3D",
-    "description": "Move active object along ",
+    "description": "Move active object with mouse",
     "category": "Development",
 }
 
